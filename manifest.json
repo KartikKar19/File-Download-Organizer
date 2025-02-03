@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "File Download Organizer",
+  "version": "1.0",
+  "description": "Organizes downloaded files into specific folders based on file extensions",
+  "permissions": [
+    "downloads",
+    "downloads.shelf"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

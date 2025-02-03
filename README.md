@@ -108,4 +108,4 @@ If you encounter any issues or have suggestions:
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Kartik Kar
